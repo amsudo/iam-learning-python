@@ -53,10 +53,6 @@ print()
 print("### 8. Empty dictionary or set is False. Non empty set of dictionary is True.")
 print(bool({}))
 print(bool({"k1":"v1","k2":"v2"}))
-
-# print('{"abc"} is {0}'.format(bool({"abc"}))
-# print('{"abc","def"} is {0}'.format(bool({"abc","def"}))
-# print('{"key1":"value1","key2":"value2"} is {0}'.format(bool({"key1":"value1","key2":"value2"}))
 print()
 
 
